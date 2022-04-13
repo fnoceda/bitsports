@@ -3,7 +3,7 @@
 ## Descipción
 Para el presente challenge utilice el paquete de gestión de estados provider (también tengo conocimientos con Cubit, Bloc, GetX) pero que me pareció adecuado provider debido a que el proyecto es pequeño. 
 <br /><br /> Utilice la librería animated_do para dar dinamismo a la carga de contenido, al iniciar se muestra la información que ya se obtiene en el método principal y se va animando la información adicional ya que el método principal no devuelve dicha información.
-<br /><br /> También agregue los tests unitarios los cuales estaban como opcionales pero me parece que es un ítem importante en cualquier aplicación que busca automatizar los procesos de test.
+<br /><br /> También agregue los tests unitarios los cuales estaban como opcionales pero me parece que es un ítem importante en cualquier aplicación comprometida con la calidad y que busca automatizar los procesos de test.
 <br /><br /> El challenge no requeria, pero me pareció apropiado agregar un splash screen nativo para iOS y android, así como el icono de la aplicación
 <table>
     <tr>
