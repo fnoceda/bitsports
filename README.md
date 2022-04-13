@@ -7,4 +7,6 @@ Bitsport challenge
 
 
 <img src="img/1.jpg">
-![Icono de la app] (img/1.jpg)
+<img src="img/2.PNG">
+<img src="img/3.PNG">
+<img src="img/4.PNG">
