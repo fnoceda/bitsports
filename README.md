@@ -12,8 +12,8 @@ Para el presente challenge utilice el paquete de gestión de estados provider (t
         <td><img src="img/3.PNG" width="200"></td>
     </tr>
     <tr>
-        <td><img src="img/5.PNG" width="200"></td>
         <td><img src="img/4.PNG" width="200"></td>
+        <td><img src="img/5.PNG" width="200"></td>
         <td>&nbsp</td>
     </tr>
 </table>
