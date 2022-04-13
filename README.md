@@ -6,12 +6,29 @@
 ### Paquete de gestor de estado utilizado
 #### provider: ^6.0.2 https://pub.dev/packages/provider 
 
-### flutter_launcher_icons: ^0.9.2
-### http: ^0.13.4
-### dartz: ^0.10.1
-### equatable: ^2.0.3
-### awesome_icons: ^1.1.0
-### animate_do: ^2.1.0
+### Paquete para crear el icono en todas las versiones de pantalla
+#### flutter_launcher_icons: ^0.9.2 https://pub.dev/packages/flutter_launcher_icons
+
+### Paquete para la conectividad
+#### http: ^0.13.4 https://pub.dev/packages/http
+
+### Iconos
+#### awesome_icons: ^1.1.0 https://pub.dev/packages/awesome_icons
+
+### Animaciones
+#### animate_do: ^2.1.0 https://pub.dev/packages/animate_do
+
+
+### Paquetes para test unitarios
+#### dartz: ^0.10.1 https://pub.dev/packages/dartz
+##### Permite programacion funcional
+
+#### equatable: ^2.0.3 https://pub.dev/packages/equatable
+##### Permite la comparacion de objetos de una manera simple agregando una funcion al modelo
+
+#### mockito: ^5.0.16 https://pub.dev/packages/mockito
+##### permite emular clientes http
+
 
 <table>
     <tr>
