@@ -1,9 +1,17 @@
-# bitsports
+# Bitsports Challenge
 
-Bitsport challenge
 
-## Getting Started
+## Paquetes Utilizadas
 
+### Paquete de gestor de estado utilizado
+#### provider: ^6.0.2 https://pub.dev/packages/provider 
+
+### flutter_launcher_icons: ^0.9.2
+### http: ^0.13.4
+### dartz: ^0.10.1
+### equatable: ^2.0.3
+### awesome_icons: ^1.1.0
+### animate_do: ^2.1.0
 
 <table>
     <tr>
