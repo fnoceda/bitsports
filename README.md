@@ -6,7 +6,7 @@
 ### Paquete de gestor de estado utilizado
 #### provider: ^6.0.2 https://pub.dev/packages/provider 
 
-### Paquete para crear el icono en todas las versiones de pantalla
+### Paquete para crear el launch icon en todas las versiones de pantalla
 #### flutter_launcher_icons: ^0.9.2 https://pub.dev/packages/flutter_launcher_icons
 
 ### Paquete para la conectividad
