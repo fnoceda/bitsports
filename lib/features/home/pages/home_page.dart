@@ -100,14 +100,14 @@ class _PeopleListState extends State<PeopleList> {
             if (isLastWidget) {
               return Column(
                 children: [
-                  _peopleList(person),
+                  _peopleList(person, i),
                   // PeopleListTile(person: person),
                   const Divider(color: Color(0xff828282)),
                   const LoadingWidget(),
                 ],
               );
             } else {
-              return _peopleList(person);
+              return _peopleList(person, i);
 
               // return PeopleListTile(person: person);
             }
@@ -122,9 +122,10 @@ class _PeopleListState extends State<PeopleList> {
     peopleService.refreshData();
   }
 
-  Widget _peopleList(CustomPeopleModel person) {
+  Widget _peopleList(CustomPeopleModel person, int i) {
     return FadeIn(
       duration: const Duration(milliseconds: 800),
+      delay: Duration(milliseconds: (i * 300)),
       child: ListTile(
         title: Text(
           person.name,
